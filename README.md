@@ -118,3 +118,34 @@ Follow these steps to install and run the project on your local machine:
     ```bash
     php artisan ser
     ```
+## Usage
+
+After setting up and running the server, open your browser and navigate to `http://localhost:8000`. From there, you can:
+
+- Register as a new user.
+- Log in to view the feed.
+- Follow other users to see their posts in your feed.
+- Post your thoughts and interact with others.
+  
+### Admin Access
+
+To explore the admin capabilities, you can log in with the following credentials:
+- **Email**: `admin@example.com`
+- **Password**: `obaida1234@`
+
+Once logged in as an admin, you will have access to:
+- Managing users (viewing, editing, and deleting accounts).
+- Moderating posts and comments.
+- Admin-specific functionalities available in the admin control panel.
+
+## Screenshots
+
+![User follow](screenshots/follow.jpg)
+![Home Page](screenshots/home.jpg)
+![User Profile](screenshots/profile.jpg)
+
+## Contact
+For support or inquiries, feel free to contact the project maintainer at:
+
+- Email: obaidamire755@gmail.com
+- Linkedin: www.linkedin.com/in/obaida-mire-a152a1256
