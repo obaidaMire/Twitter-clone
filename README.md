@@ -19,8 +19,7 @@ The project is built using the **Laravel Framework**, which structures the web a
 
 -   **Robust Authentication System**:  
     The project includes an authentication system that allows users to create accounts and log in using their email and password.
-
--   **Post and Profile Editing Restrictions**:
+-   **Post and Profile Editing Restrictions**:  
     Users are restricted from editing or modifying posts made by other users, as well as editing their own profile details unless they are the owner of the account. Only admins have the ability to edit any user's post or profile. This ensures the security and integrity of user-generated content and personal information.
 
 -   **Admin Panel for User Management**:  
